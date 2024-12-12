@@ -10,4 +10,4 @@ const Layout = () => {
   )
 }
 
-export default Layouts
+export default Layout
