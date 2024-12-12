@@ -6,7 +6,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./components/home/Home";
 import Header from "./components/header/Header";
 import Trailer from "./components/trailer/Trailer";
-import Reviews from "./components/reviews/Reviews";
+import Reviews from "./components/reviews/Reviews.js";
 import NotFound from "./components/notFound/NotFound";
 import Auth from "./components/controllers/Auth";
 
